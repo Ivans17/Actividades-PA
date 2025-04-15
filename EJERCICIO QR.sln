@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJERCICIO QR", "EJERCICIO QR\EJERCICIO QR.csproj", "{B5897DAA-59A5-4AEC-A587-3F1031C8BDDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5897DAA-59A5-4AEC-A587-3F1031C8BDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5897DAA-59A5-4AEC-A587-3F1031C8BDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5897DAA-59A5-4AEC-A587-3F1031C8BDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5897DAA-59A5-4AEC-A587-3F1031C8BDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4105118-3329-4BDA-BDFD-E543125FD0B8}
+	EndGlobalSection
+EndGlobal
